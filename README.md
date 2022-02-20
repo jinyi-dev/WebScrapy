@@ -1,4 +1,4 @@
-This a web scape codes using Python and Scrapy framework. The web site is book.toscrape.com.
+## This a web scape codes using Python and Scrapy framework. The web site is book.toscrape.com.
 The purpose of this project is to scrape out info on the web for,'book name','price','rating','in stock' information.
 I also strip out the price to number without £ in front of it,  (£32.55 to 32.55) so it is easy for you do analysis later.
 
